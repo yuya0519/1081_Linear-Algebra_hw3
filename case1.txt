@@ -1,0 +1,11 @@
+1
+(1,-1)
+8
+Rotation -60
+Reflection X
+Reflection Y
+Dilation 5
+Contraction 5
+Reflection Y
+Reflection X
+Rotation 60

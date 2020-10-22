@@ -1,0 +1,13 @@
+1
+(-1,0,0)
+9
+Contraction 1
+Reflection X
+Reflection Y
+Reflection Z
+Reflection X
+Reflection Y
+Reflection Z
+Rotation X -1
+Rotation Z -1
+
